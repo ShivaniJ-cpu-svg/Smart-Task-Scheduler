@@ -51,10 +51,5 @@ Deliverables:
 - ✅ Screenshots of the application
 - ✅ README.txt (this file)
 
-Author:
--------
-[Your Full Name]  
-[Your Roll Number / Student ID]  
-[College Name]  
-[Date of Submission]
+
 
