@@ -55,3 +55,8 @@ If using CLI:
 javac -cp "lib/javafx-sdk/lib/*" -d out $(find src -name "*.java")
 ### 3. Run the application
 java -cp "out:lib/javafx-sdk/lib/*" Main
+
+# Output
+<img width="1291" height="696" alt="Image" src="https://github.com/user-attachments/assets/f9a4cbb5-c02c-4dd5-a740-78d27a1d94c9" />
+
+<img width="1035" height="456" alt="Image" src="https://github.com/user-attachments/assets/be6d238b-d427-428c-8e84-7a3278df20e0" />
